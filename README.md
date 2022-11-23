@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="left" src="![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31fdnjfydp2aw5anjtanppdsrn4i&unique={true|1|on|yes})" />
+<img align="left" src="http://most-used-languages-49ldelwr4-killed.vercel.app/api/top-langs/?username=killed&hide_border=false&theme=midnight-purple&exclude_repo=Most-used-languages,11.58.0.37,Snapchat-Reversing,Yubo-Reversing&langs_count=6" />
 
-<!--
-**ilydark/ilydark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
+<br />
 
-Here are some ideas to get you started:
+[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alin="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://komarev.com/ghpvc/?username=tollarence&color=blueviolet" />
+
+[discord]: https://discordapp.com/users/1036233000486187028
+[instagram]: https://instagram.com/tossuh/
+[steam]: https://steamcommunity.com/id/Tossuh/
