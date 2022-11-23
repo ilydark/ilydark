@@ -1,4 +1,4 @@
-<img align="left" src="![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31fdnjfydp2aw5anjtanppdsrn4i&unique={true|1|on|yes})" />
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31fdnjfydp2aw5anjtanppdsrn4i&unique={true|1|on|yes}" />
 <img align="left" src="http://most-used-languages-49ldelwr4-killed.vercel.app/api/top-langs/?username=killed&hide_border=false&theme=midnight-purple&exclude_repo=Most-used-languages,11.58.0.37,Snapchat-Reversing,Yubo-Reversing&langs_count=6" />
 
 <br />
